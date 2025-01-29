@@ -62,7 +62,7 @@ Some of the key tests include:
 - **User Login Tests**: Ensure that users can successfully log in to domain-joined machines.
 - **Group Policy Application**: Test if Group Policies are applied to machines and users correctly.
 
-## Common Issues & Troubleshooting
+## Common Issues and Troubleshooting
 
 During the setup and maintenance of the Virtual Enterprise environment, you may run into several issues. This section includes common problems and troubleshooting steps.
 
