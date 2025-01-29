@@ -5,8 +5,8 @@ This repository serves as a detailed guide and resource for setting up and manag
 ## Table of Contents
 
 - [Overview](#overview)
-- [Project Structure](#domaincontrollersetup)
-- [Setup Instructions](#usermanagement)
+- [Project Structure](#projectstructure)
+- [Setup Instructions](#setupinstructions)
 - [Testing](#testing)
 - [Common Issues & Troubleshooting](#common-issues-&-troubleshooting)
 
