@@ -5,12 +5,10 @@ This repository serves as a detailed guide and resource for setting up and manag
 ## Table of Contents
 
 - [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Setup Instructions](#setup-instructions)
-- [How to Contribute](#how-to-contribute)
+- [DomainControllerSetup](#domaincontrollersetup)
+- [User Management](#usermanagement)
+- [Notes](#notes)
 - [Testing](#testing)
-- [Common Issues & Troubleshooting](#common-issues--troubleshooting)
-- [License](#license)
 
 ## Overview
 
