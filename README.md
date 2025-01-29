@@ -5,10 +5,10 @@ This repository serves as a detailed guide and resource for setting up and manag
 ## Table of Contents
 
 - [Overview](#overview)
-- [Project Structure](#projectstructure)
-- [Setup Instructions](#setupinstructions)
+- [Project Structure](#project-structure)
+- [Setup Instructions](#setup-instructions)
 - [Testing](#testing)
-- [Common Issues & Troubleshooting](#common-issues-&-troubleshooting)
+- [Common Issues and Troubleshooting](#common-issues-and-troubleshooting)
 
 ## Overview
 
