@@ -5,10 +5,10 @@ This repository serves as a detailed guide and resource for setting up and manag
 ## Table of Contents
 
 - [Overview](#overview)
-- [DomainControllerSetup](#domaincontrollersetup)
-- [User Management](#usermanagement)
-- [Notes](#notes)
+- [Project Structure](#domaincontrollersetup)
+- [Setup Instructions](#usermanagement)
 - [Testing](#testing)
+- [Common Issues & Troubleshooting](#common-issues-&-troubleshooting)
 
 ## Overview
 
@@ -50,16 +50,6 @@ To set up the Virtual Enterprise environment, follow these general instructions:
 
 6. **Post-Setup Maintenance**:
    - After setup, use the **UserManagement** and **Testing** folders to manage users and verify system functionality periodically.
-
-## How to Contribute
-
-If you’d like to contribute to this repository, please feel free to fork the project and submit a pull request. We welcome improvements, bug fixes, and new features. When contributing, please ensure that you:
-
-- Follow the same structure and documentation style.
-- Include detailed commit messages.
-- Add tests or explanations if applicable.
-
-Please open an issue if you encounter any problems or if you have suggestions for improvement!
 
 ## Testing
 
